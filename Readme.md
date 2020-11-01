@@ -78,6 +78,33 @@ Ahora creamos una maquina virtual con nuestra imagen.
 
 Seleccionamos la maquina sobre la cual queremos crear el template para depliegue
 
+![img](img/Template/1.jpg)
+
+Llenamos el nombre, la descripcion del template, y que nos ayude con la creacion del grupo de auto escalado.
+
+![img](img/Template/captura.PNG)
+
+Seleccionamos VPC para nuestra networking
+
+![img](img/Template/captura2.PNG)
+
+Modificamos en opciones avanzadas los sisguientes items
+
+![img](img/Template/Captura3.PNG)
+
+Ingresamos a nuestro Template y en el item acciones seleccionamos crear instancia para template
+
+![img](img/Template/FileTemplate.PNG)
+
+![img](img/Template/launch instance.PNG)
+
+Vamos a la instancia
+
+![img](img/Template/goInstance.PNG)
+
+Vamos a probar que nuestra instancia funcione
+
+[img](img/Template/launch instance.PNG)
 
 
 
