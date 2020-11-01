@@ -47,7 +47,7 @@ Luego ponemos el nombre de la imagen y esperemos a que sea creada.
 
 Ahora creamos una maquina virtual con nuestra imagen.
 
-![img](instanceImage.PNG)
+![img](img/instanceImage.PNG)
 
 ### Creacion de Template
 
