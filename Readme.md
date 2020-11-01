@@ -117,6 +117,22 @@ Ingresamos los datos del Template en que Se desea crear unicamente modificamos e
 ![img](img/AutoScaling/2.PNG)
 
 
+### Ahora sobre la Marcha vamos a modificarlo
+
+
+Seleccionamos el numero de  instancias minimo y maximo (Inicio del grupo de escalamiento)
+
+![img](img/AutoScaling/size.PNG)
+
+Por facilidad utilizamos un balanceador de carga (Inicio del grupo de escalamiento)
+
+![img](img/AutoScaling/loadBalancer.PNG)
+
+Ahora vamos a la seccion autoscaling de nuestro grupo y definimos una regla de escalamiento
+
+![img](img/AutoScaling/policy.PNG)
+
+
 
 
 ### Video evidencia de auto escalado
