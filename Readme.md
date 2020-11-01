@@ -104,7 +104,7 @@ Vamos a la instancia
 
 Vamos a probar que nuestra instancia funcione
 
-[img](img/Template/launch instance.PNG)
+![img](img/Template/launch instance.PNG)
 
 
 
