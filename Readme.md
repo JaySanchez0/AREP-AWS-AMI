@@ -96,7 +96,8 @@ Ingresamos a nuestro Template y en el item acciones seleccionamos crear instanci
 
 ![img](img/Template/FileTemplate.PNG)
 
-![img](img/Template/launch instance.PNG)
+![img](img/Template/launchInstance.PNG)
+
 
 Vamos a la instancia
 
@@ -104,7 +105,7 @@ Vamos a la instancia
 
 Vamos a probar que nuestra instancia funcione
 
-![img](img/Template/launchInstance.PNG)
+![img](img/Template/test.PNG)
 
 
 ### Creacion de Grupo de Auto Escalamiento
