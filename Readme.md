@@ -82,11 +82,11 @@ Seleccionamos la maquina sobre la cual queremos crear el template para depliegue
 
 Llenamos el nombre, la descripcion del template, y que nos ayude con la creacion del grupo de auto escalado.
 
-![img](img/Template/captura.PNG)
+![img](img/Template/Captura.PNG)
 
 Seleccionamos VPC para nuestra networking
 
-![img](img/Template/captura2.PNG)
+![img](img/Template/Captura2.PNG)
 
 Modificamos en opciones avanzadas los sisguientes items
 
