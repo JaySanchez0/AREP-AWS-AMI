@@ -92,20 +92,20 @@ Seleccionamos http/https
 
 Ingresamos el nombre del balanceador de carga
 
-![img](img/LoadBalancer/2.PNG)
+![img](img/LoadBalacer/2.PNG)
 
 Seleccionamos las zonas de disponibilidad
 
-![img](img/LoadBalancer/3.PNG)
+![img](img/LoadBalacer/3.PNG)
 
 En configure Routing ingresamos el nombre
 
-![img](img/LoadBalancer/4.PNG)
+![img](img/LoadBalacer/4.PNG)
 
 
 En la seccion review damos clic sobre crear
 
-![img](img/LoadBalancer/5.PNG)
+![img](img/LoadBalacer/5.PNG)
 
 
 ### Creacion de Grupo de Auto Escalamiento
