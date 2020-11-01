@@ -62,3 +62,14 @@ Le estamos diciendo al programa que le solicite a nuestro programa que consulte 
 Seleccionamos la maquina virtual sobre la cual realizamos la configuracion
 
 ![img](img/crearImagen.jpg)
+
+
+Luego ponemos el nombre de la imagen y esperemos a que sea creada.
+
+
+![img](img/imageCreateView.PNG)
+
+
+Ahora creamos una maquina virtual con nuestra imagen.
+
+![img](instanceImage.PNG)
