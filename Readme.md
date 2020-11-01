@@ -73,3 +73,16 @@ Luego ponemos el nombre de la imagen y esperemos a que sea creada.
 Ahora creamos una maquina virtual con nuestra imagen.
 
 ![img](instanceImage.PNG)
+
+### Creacion de Template
+
+Seleccionamos la maquina sobre la cual queremos crear el template para depliegue
+
+
+
+
+
+
+### Video evidencia de auto escalado
+
+[Ver](https://www.youtube.com/watch?v=hua5Cfj6vzE&feature=youtu.be)
