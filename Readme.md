@@ -78,6 +78,27 @@ Vamos a probar que nuestra instancia funcione
 
 ![img](img/Template/test.PNG)
 
+### Creacion de un balanceador de carga
+
+Vamos a la seccion balanceadores de carga y damos clic en el boton crear
+
+![img](img/LoadBalancer/1.PNG)
+
+Seleccionamos http/https
+
+Ingresamos el nombre del balanceador de carga
+
+![img](img/LoadBalancer/2.PNG)
+
+Seleccionamos las zonas de disponibilidad
+
+![img](img/LoadBalancer/3.PNG)
+
+En configure Routing ingresamos el nombre
+
+![img](img/LoadBalancer/4.PNG)
+
+
 
 ### Creacion de Grupo de Auto Escalamiento
 
