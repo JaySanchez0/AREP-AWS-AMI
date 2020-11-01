@@ -107,6 +107,14 @@ Vamos a probar que nuestra instancia funcione
 ![img](img/Template/launchInstance.PNG)
 
 
+### Creacion de Grupo de Auto Escalamiento
+
+Ingresamos los datos del Template en que Se desea crear unicamente modificamos el template, y las subredes, en los demas se puede saltar.
+
+![img](img/AutoScaling/1.PNG)
+
+![img](img/AutoScaling/2.PNG)
+
 
 
 
