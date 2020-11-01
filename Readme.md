@@ -24,38 +24,9 @@ Jeisson G. Sanchez R.
 
 ![img](img/crontab.PNG)
 
-### Algunas pruebas
-
-**Broser Test**
+### Prueba en el browser
 
 ![img](img/browsertest.PNG)
-
-**Pruebas de carga usando JMETER**
-
-1. Creacion de un grupo de hilos para peticiones
-
-![img](img/threads.PNG)
-
-En esta imagen podemos ver que en cada iteracion envia 100 peticiones, en 30 iteraciones, por lo tanto tenemos un total de 3000 usuarios por el total de la prueba.
-
-2. Creamos la peticion http
-
-![img](img/httprequest.PNG)
-
-Le estamos diciendo al programa que le solicite a nuestro programa que consulte cuantas oaciones aparece la palabra "york".
-
-3. Creamos un listener para este ejemplo un "result view tree"
-
-![img](img/tree.PNG)
-
-4. Corremos las pruebas y esperamos se sature la memoria o la cpu
-
-![img](img/peticiones.PNG)
-
-![img](img/recursos1.PNG)
-
-![img](img/recursos2.PNG)
-
 
 ### Creamos una imagen de la maquina virtual actual
 
