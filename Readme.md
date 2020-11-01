@@ -14,6 +14,10 @@ Jeisson G. Sanchez R.
     sudo yum install docker
 ~~~
 
+### Nota:
+
+Los pasos que no se especifican se pueden omitir dando en el boton siguiente en la configuracion.
+
 ### Abrimos el archivo Crontab
 
 ~~~
@@ -98,6 +102,10 @@ En configure Routing ingresamos el nombre
 
 ![img](img/LoadBalancer/4.PNG)
 
+
+En la seccion review damos clic sobre crear
+
+![img](img/LoadBalancer/5.PNG)
 
 
 ### Creacion de Grupo de Auto Escalamiento
