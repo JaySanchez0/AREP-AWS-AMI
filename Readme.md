@@ -86,7 +86,7 @@ Vamos a probar que nuestra instancia funcione
 
 Vamos a la seccion balanceadores de carga y damos clic en el boton crear
 
-![img](img/LoadBalancer/1.PNG)
+![img](img/LoadBalacer/1.PNG)
 
 Seleccionamos http/https
 
